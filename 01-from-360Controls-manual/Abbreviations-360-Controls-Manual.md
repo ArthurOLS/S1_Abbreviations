@@ -11,7 +11,7 @@ The status of `Safety Circuits`, `Drives`, `Doors`, `Serial Links`, `Tape Reader
    1. `HU`, Hall Up call
    2. `HD`, Hall Down call
    3. `CC`: Car Call 
-2. `COP`: ??? cab operation panel??
+2. `COP`: Cab operation panel
 3. `Operation Status`: 
    1. `AUTO NORMAL`, 
    2. `IN CAR INSPECTION`, 
