@@ -13,3 +13,7 @@ Abbreviations and acronyms in leaning how elevators work
 ## What's XXX?
 1. [`What is 'Interlock'?`](./97-what_is_xx/what_is_interlock.md)
 2. [`What is 'Auto Rescue'`](./97-what_is_xx/what_is_auto_rescue.md)
+
+
+## What's IAR Visual State?
+1. [`What's Iar`](./96-what_is_iar_vs/iar_vs.md)
