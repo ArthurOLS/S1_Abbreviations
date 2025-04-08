@@ -1,8 +1,11 @@
 # What is xxx?
 2025-03-28 10:50:47  Arthur
-## What is interlock?
-DOOR INTERLOCK
+## 1. What is interlock?
+[`What_is_interlock?`](./interlock/what_is_interlock.md)
 
-Electro-mechanical Interlock or EMI, is a safety lock that prevents the hoistway door (hall door) from opening if the elevator is not at that landing.
 
-![alt text](image.png)
+## 2. What is auto-rescue?
+[`What is auto-rescue?`](./auto-rescue/what_is_auto_rescue.md)
+
+## 3. What is CEDES APS?
+[`cedes-aps`](./cedes-aps/cedes-aps.md)
