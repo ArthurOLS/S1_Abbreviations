@@ -17,3 +17,6 @@ Abbreviations and acronyms in leaning how elevators work
 
 ## What's IAR Visual State?
 1. [`What's Iar`](./96-what_is_iar_vs/iar_vs.md)
+
+## Howto VS2022?
+[`What can VS2022 GDI do?`](/88-howto-vs2022/howto-whatisit.md) | [`Howto vs2022?`](/88-howto-vs2022/howto-timer.md) 
