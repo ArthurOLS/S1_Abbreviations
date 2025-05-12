@@ -1,0 +1,12 @@
+
+Job Name: [The Angeline Bldg 1]
+Job  ID : 8917
+
+Number of Car(s): 1
+ Car Index: 1 Passcode: 00038613 carLabel: car1
+
+
+
+Parameters
+ (24-0195) Job ID
+ (24-0196) Passcode
