@@ -6,6 +6,12 @@
 
 ## [`What is auto-rescue?`](./auto-rescue/what_is_auto_rescue.md)
 
-## [`What is CEDES-APS`](./cedes-aps/cedes-aps.md)
+## [`What is CEDES-APS?`](./cedes-aps/cedes-aps.md)
 
 ## [`What is Speed Governor?`](speed-governer/speed-govener.md)
+
+## [`What is Interface Board?`](interface-board/interface-board.md)
+
+## [`What is Tension Sensor?`](tension-sensor/tension-sensor.md)
+
+## [`What is Pit inspection box?`](pit-inspection-box/pit.md)
