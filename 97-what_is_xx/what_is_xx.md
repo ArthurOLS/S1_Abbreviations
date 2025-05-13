@@ -15,3 +15,5 @@
 ## [`What is Tension Sensor?`](tension-sensor/tension-sensor.md)
 
 ## [`What is Pit inspection box?`](pit-inspection-box/pit.md)
+
+## [`What is safety gear? `](safety-gear/safety-gear.md)
