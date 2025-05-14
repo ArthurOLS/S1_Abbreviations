@@ -21,3 +21,7 @@ Abbreviations and acronyms in leaning how elevators work
 ## 4. Real Projects
 1. [20-SMARTRISE PROJECT - The Angeline Bldg (Link to Folder)](./20-SMARTRISE%20PROJECT%20-%20The%20Angeline%20Bldg/)
 
+
+## 5. Code
+[`B44-2016`](./95-codes/A17.1-2016%20CSA%20B44-16.pdf)
+
