@@ -11,8 +11,9 @@ Abbreviations and acronyms in leaning how elevators work
 
 
 ## 2. General Knowledge: What's XXX?
-1. [`What is 'XXX device'?`](./97-what_is_xx/what_is_xx.md)
-2. [`General Training:(what's 'headroom height'?)`](./30-General%20Training/GeneralConcepts.md)
+1. [`A guide to lifts in the UK`](https://beno.uk/lift/)
+2. [`What is 'XXX device'?`](./97-what_is_xx/what_is_xx.md)
+3. [`General Training:(what's 'headroom height'?)`](./30-General%20Training/GeneralConcepts.md)
 
 
 ## 3. General Howto: Howto VS2022?
