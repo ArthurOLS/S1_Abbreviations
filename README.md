@@ -24,6 +24,9 @@ Abbreviations and acronyms in leaning how elevators work
 1. [20-SMARTRISE PROJECT - The Angeline Bldg (Link to Folder)](./20-SMARTRISE%20PROJECT%20-%20The%20Angeline%20Bldg/)
 
 
-## 5. Code
+## 5. Standard Code
 [`B44-2016`](./95-codes/A17.1-2016%20CSA%20B44-16.pdf)
 
+
+## 6. Comparing with Automotive Industry
+1. [`ADAS and its ECU in Automotive.`](./89-Automotive-Industry-Inspiration/automotive.md)
